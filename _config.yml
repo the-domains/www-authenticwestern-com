@@ -1,0 +1,28 @@
+name: www.authenticwestern.com
+favicon: null
+layout_spectrum: 0.9898492763750255
+typography_spectrum: 0.9179706671275198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.24887462216429412
+  lightness: 0.3939700070768595
+  saturation: 0.28762160893529654
+  rhythmicContrast: 0.7692519885022193
+purpose: []
